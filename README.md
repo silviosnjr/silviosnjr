@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Olá, meu nome é Silvio 👋
+*
+- Professor do [Programa Edutech](https://www.educacao.pr.gov.br/programacao)
+- Desenvolvedor Web
+*
 <!--
 **silviosnjr/silviosnjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
